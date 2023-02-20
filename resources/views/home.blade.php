@@ -5,7 +5,7 @@
             <div class="section-intro__inner">
                 <div aria-label="Описание" class="section-intro__detail">
                     <h1 align="left" class="section-intro__title title-xl">
-                        ВО ВСЕХ ОПЫТАХ И ЭКСПЕРИМЕНТАХ ДЕТИ ПРИНИМАЮТ АКТИВНОЕ УЧАСТИЕ!
+                        Научное шоу. Детские праздники в научном стиле с профессором Чудаковым!
                     </h1>
                     <div class="scroll-trigger">
 
